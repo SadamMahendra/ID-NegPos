@@ -3584,3 +3584,4 @@ tidak bayar pajak
 tidak kuat bayar pajak
 bug
 stuck
+uninstall
